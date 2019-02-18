@@ -52,9 +52,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'eosc350website'
-copyright = u'2016, UBC GIF'
-author = u'UBC GIF'
+project = u'ess302website'
+copyright = u'2019, SUSTech-GEM'
+author = u'SUSTech-GEM'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
