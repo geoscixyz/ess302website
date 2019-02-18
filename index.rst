@@ -1,9 +1,8 @@
 .. _index:
 
-ESS 302: Applied Geophysics II 
-===============================
-(Gravity, Magnetic, Electric and Well Logging)
-==============================================
+ESS 302: Applied Geophysics II (Gravity, Magnetic, Electric and Well Logging)
+=============================================================================
+
 
 Course Description
 ------------------
