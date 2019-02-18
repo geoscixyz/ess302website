@@ -1,31 +1,7 @@
 .. _index:
 
-EOSC 350: Environmental, Geotechnical and Exploration Geophysics I
-==================================================================
-
- .. note:: `Teams`_ for TBL have been created.
-
- .. note:: `TBL 2 Individual`_ online quizz is available here and through the course schedule. Due September 24th 2018.
-
-.. _TBL 2 Individual: https://docs.google.com/forms/d/e/1FAIpQLSfkTk_DSev92psN-kio3rMInnSjh-OtmnR5dZ8vL3gS35NZew/viewform
-
-..     - Sample questions for the final are available here (and on the schedule page):
-
-..         - `Physical Properties_QB`_
-..         - `Magnetics_QB`_
-..         - `Seismics_QB`_
-..         - `GPR_QB`_
-..         - `EM_QB`_
-..         - `DCIP_QB`_
-
-
-.. _Physical Properties_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Intro_properties.pdf
-.. _Magnetics_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Magnetics.pdf
-.. _Seismics_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Seismic.pdf
-.. _GPR_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/GPR.pdf
-.. _DCIP_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/DCIP.pdf
-.. _EM_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/EM.pdf
-
+ESS 302: Applied Geophysics II (Gravity, Magnetic, Electric and Well Logging)
+=============================================================================
 
 Course Description
 ------------------
