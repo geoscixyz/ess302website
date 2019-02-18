@@ -44,11 +44,10 @@ Contact Information
 
 **Instructors:**
 
-- Doug Oldenburg:     doug@eos.ubc.ca, ESB 5194
-- Seogi Kang:         skang@eos.ubc.ca, ESB 4037
+- Dikun Yang:         yangdk@sustc.edu.cn, Chuangyuan 9-406B
 
 Office hours: contact the instructors via email to set up an appointment. Please include
-'EOSC350' in the subject line.
+'ESS302' in the subject line.
 
 **Teaching Assistants:**
 
