@@ -6,23 +6,38 @@ Assignments
 Term Reading Project
 --------------------
 
-- Get familiar with Google Scholar (or other scientific publication database of
-your choice)
+- Get familiar with Google Scholar (or other scientific publication database of your choice)
+
 - Search for a technical article that is on the topics of applied geophysics
 (gravity, magnetic, electrical, electromagnetic and well logging)
+
 - Discuss the article chosen with the instructor
+
 - Complete a work sheet about the article before the mid-term exam (the work sheet
 counts for 20% of the mid-term exam)
+
 - Continue reading until the end of term and present the article on the last day
 of class
+
 - Read carefully because you will need the article in your final exam!
 
 
 Module Assignments
 ------------------
 
-TBA
+- Gravity: TBA (Due date: )
 
+- Magnetic: TBA (Due date: )
+
+- Electrical: TBA (Due date: )
+
+- Electromagnetic (induction): TBA (Due date: )
+
+- Electromagnetic (geo-radar): TBA (Due date: )
+
+- Well logging: TBA (Due date: )
+
+- Geophysical inversion: TBA (Due date: )
 
 
 .. **TBL 1**
