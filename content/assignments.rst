@@ -3,16 +3,27 @@
 Assignments
 ===========
 
-.. note:: All the material is available through the course schedule.
+Term Reading Project
+--------------------
 
-.. note:: Please print out the labs before attending the lab period.
+- Get familiar with Google Scholar (or other scientific publication database of
+your choice)
+- Search for a technical article that is on the topics of applied geophysics
+(gravity, magnetic, electrical, electromagnetic and well logging)
+- Discuss the article chosen with the instructor
+- Complete a work sheet about the article before the mid-term exam (the work sheet
+counts for 20% of the mid-term exam)
+- Continue reading until the end of term and present the article on the last day
+of class
+- Read carefully because you will need the article in your final exam!
 
-.. note:: Apps for the assignment are available by clicking below binder badge!
+
+Module Assignments
+------------------
+
+TBA
 
 
-.. image:: https://mybinder.org/badge.svg
-    :target: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=Notebooks%2Findex.ipynb
-    :align: center
 
 .. **TBL 1**
 
