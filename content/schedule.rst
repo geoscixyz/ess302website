@@ -22,8 +22,8 @@ This page will be updated regularly throughout the term, check it often.
 .. ============= Links ==========================
 
 .. ------------- General ------------------------
-.. _Introduction.pdf: https://github.com/geoscixyz/ess302website/blob/master/assets/2019/Introduction.pdf
-.. _Framework.pdf: https://github.com/geoscixyz/ess302website/blob/master/assets/2019/Framework_and_Physical_Properties.pdf
+.. _Introduction.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Introduction.pdf
+.. _Framework.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Framework_and_Physical_Properties.pdf
 .. _Introduction: notpostedyet.html
 .. _Framework: notpostedyet.html
 
