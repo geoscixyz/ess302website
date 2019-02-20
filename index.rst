@@ -1,15 +1,15 @@
 .. _index:
 
-ESS 302: Applied Geophysics II (Gravity, Magnetic, Electrical and Well Logging)
-===============================================================================
+ESS 302: Applied Geophysics II (Gravity, Magnetic, Electrical, Electromagnetic and Well Logging)
+================================================================================================
 
 
 Course Description
 ------------------
 
 Principles of geophysical survey design, data acquisition, processing and
-interpretation with emphasis on gravity, magnetic, electrical, 
-electromagnetic, ground penetrating radar surveys and well logging. Taught 
+interpretation with emphasis on gravity, magnetic, electrical,
+electromagnetic, ground penetrating radar surveys and well logging. Taught
 as the second part (non-seismic) of **Applied Geophysics** at SUSTech.
 
 Course Times
