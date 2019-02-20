@@ -10,7 +10,7 @@ This page will be updated regularly throughout the term, check it often.
 +------+----+----+--------------------------------+-----------------------------+
 |Month | Day|Week| Topics or activities           | Links                       |
 +------+----+----+--------------------------------+-----------------------------+
-|Feb   | 20 | 1  | - Introduction                 | - Slides:`Introduction.pdf`_|
+|Feb   | 20 | 1  | - Introduction                 |- Slides: `Introduction.pdf`_|
 |      |    |    | - Framework and physical       | - Slides: `Framework.pdf`_  |
 |      |    |    |   properties                   | - Video: `Introduction`_    |
 |      |    |    |                                | - Video: `Framework`_       |
