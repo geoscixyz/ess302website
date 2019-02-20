@@ -8,8 +8,9 @@ Course Resources
 
 - `GPG: Geophysics for Practicing Geoscientists <http://gpg.geosci.xyz/>`_
 
-- `geosci-labs Jupyter Notebooks on Binder <https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=Notebooks%2Findex.ipynb>`_
+- `geosci-labs on Binder <https://mybinder.org/v2/gh/geoscixyz/geosci-labs/master?filepath=notebooks%2Findex.ipynb>`_
 
+- `geosci-labs on GitHub <https://github.com/geoscixyz/geosci-labs>`_
 
 External Resources
 ------------------
