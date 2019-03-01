@@ -19,7 +19,7 @@ This page will be updated regularly throughout the term, check it often.
 |      |    |    |                                | - Video: `Gravity_1a`_         |
 |      |    |    |                                | - Video: `Gravity_1b`_         |
 +------+----+----+--------------------------------+--------------------------------+
-|Mar   | 1  | 2  | - Gravity 2                    |                                |
+|Mar   | 1  | 2  | - Gravity 2                    | - Slides: `Gravity_2.pdf`_     |
 +      +----+----+--------------------------------+--------------------------------+
 |      | 6  | 3  | - Gravity 3                    |                                |
 +      +----+----+--------------------------------+--------------------------------+
@@ -41,6 +41,7 @@ This page will be updated regularly throughout the term, check it often.
 .. _Gravity_1.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Gravity_1.pdf
 .. _Gravity_1a: http://v.youku.com/v_show/id_XNDA3NzIwNDkwNA==.html?spm=a2h1n.8251843.playList.5!3~1!2~3~A&f=52111023&o=1
 .. _Gravity_1b: http://v.youku.com/v_show/id_XNDA3NzIwNDkwOA==.html?spm=a2h1n.8251843.playList.5!4~1!2~3~A&f=52111023&o=1
+.. _Gravity_2.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Gravity_2.pdf
 
 .. toctree::
     :hidden:

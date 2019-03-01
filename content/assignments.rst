@@ -23,8 +23,9 @@ Download `Reading_Project_Fact_Sheet.docx`_
 
 Module Assignments
 ------------------
+Please turn in your assignment in print or by email.
 
-- Gravity: TBA (Due date: )
+- Gravity: `Spheres`_ (Due date: No later than Mar 10, 2019)
 
 - Magnetic: TBA (Due date: )
 
@@ -42,3 +43,4 @@ Module Assignments
 
 
 .. _Reading_Project_Fact_Sheet.docx: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Reading_Project_Fact_Sheet_2019.docx
+.. _Spheres: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Gravity_Assignment.docx
