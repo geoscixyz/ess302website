@@ -21,7 +21,7 @@ This page will be updated regularly throughout the term, check it often.
 +------+----+----+--------------------------------+--------------------------------+
 |Mar   | 1  | 2  | - Gravity 2                    | - Slides: `Gravity_2.pdf`_     |
 +      +----+----+--------------------------------+--------------------------------+
-|      | 6  | 3  | - Gravity 3                    |                                |
+|      | 6  | 3  | - Gravity 3                    | - Slides: `Gravity_3.pdf`_     |
 +      +----+----+--------------------------------+--------------------------------+
 |      | 8  | 3  | - Magnetic 1                   |                                |
 +      +----+----+--------------------------------+--------------------------------+
@@ -42,6 +42,7 @@ This page will be updated regularly throughout the term, check it often.
 .. _Gravity_1a: http://v.youku.com/v_show/id_XNDA3NzIwNDkwNA==.html?spm=a2h1n.8251843.playList.5!3~1!2~3~A&f=52111023&o=1
 .. _Gravity_1b: http://v.youku.com/v_show/id_XNDA3NzIwNDkwOA==.html?spm=a2h1n.8251843.playList.5!4~1!2~3~A&f=52111023&o=1
 .. _Gravity_2.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Gravity_2.pdf
+.. _Gravity_3.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Gravity_3.pdf
 
 .. toctree::
     :hidden:
