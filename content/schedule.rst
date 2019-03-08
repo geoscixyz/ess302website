@@ -23,7 +23,7 @@ This page will be updated regularly throughout the term, check it often.
 +      +----+----+--------------------------------+--------------------------------+
 |      | 6  | 3  | - Gravity 3                    | - Slides: `Gravity_3.pdf`_     |
 +      +----+----+--------------------------------+--------------------------------+
-|      | 8  | 3  | - Magnetic 1                   |                                |
+|      | 8  | 3  | - Magnetic 1                   | - Slides: `Magnetic_1.pdf`_    |
 +      +----+----+--------------------------------+--------------------------------+
 |      | 15 | 4  | - Magnetic 2                   |                                |
 +      +----+----+--------------------------------+--------------------------------+
@@ -42,7 +42,12 @@ This page will be updated regularly throughout the term, check it often.
 .. _Gravity_1a: http://v.youku.com/v_show/id_XNDA3NzIwNDkwNA==.html?spm=a2h1n.8251843.playList.5!3~1!2~3~A&f=52111023&o=1
 .. _Gravity_1b: http://v.youku.com/v_show/id_XNDA3NzIwNDkwOA==.html?spm=a2h1n.8251843.playList.5!4~1!2~3~A&f=52111023&o=1
 .. _Gravity_2.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Gravity_2.pdf
+.. _Gravity_2a: https://v.youku.com/v_show/id_XNDA4MjIyOTQ5Ng==.html?spm=a2h1n.8251843.playList.5!5~5~A&f=52111023&o=1
+.. _Gravity_2b: https://v.youku.com/v_show/id_XNDA4NzkyOTk2NA==.html?spm=a2h1n.8251843.playList.5!6~5~A&f=52111023&o=1
 .. _Gravity_3.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Gravity_3.pdf
+.. _Gravity_3a: https://v.youku.com/v_show/id_XNDA4ODEwODgyNA==.html?spm=a2h1n.8251843.playList.5!7~5~A&f=52111023&o=1
+.. _Gravity_3b: https://v.youku.com/v_show/id_XNDA4ODEwODg2NA==.html?spm=a2h1n.8251843.playList.5!8~5~A&f=52111023&o=1
+.. _Magnetic_1.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Magnetic_1.pdf
 
 .. toctree::
     :hidden:
