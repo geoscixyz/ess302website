@@ -20,8 +20,12 @@ This page will be updated regularly throughout the term, check it often.
 |      |    |    |                                | - Video: `Gravity_1b`_         |
 +------+----+----+--------------------------------+--------------------------------+
 |Mar   | 1  | 2  | - Gravity 2                    | - Slides: `Gravity_2.pdf`_     |
+|      |    |    |                                | - Video: `Gravity_2a`_         |
+|      |    |    |                                | - Video: `Gravity_2b`_         |
 +      +----+----+--------------------------------+--------------------------------+
 |      | 6  | 3  | - Gravity 3                    | - Slides: `Gravity_3.pdf`_     |
+|      |    |    |                                | - Video: `Gravity_3a`_         |
+|      |    |    |                                | - Video: `Gravity_3b`_         |
 +      +----+----+--------------------------------+--------------------------------+
 |      | 8  | 3  | - Magnetic 1                   | - Slides: `Magnetic_1.pdf`_    |
 +      +----+----+--------------------------------+--------------------------------+
