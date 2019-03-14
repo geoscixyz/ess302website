@@ -28,6 +28,8 @@ This page will be updated regularly throughout the term, check it often.
 |      |    |    |                                | - Video: `Gravity_3b`_         |
 +      +----+----+--------------------------------+--------------------------------+
 |      | 8  | 3  | - Magnetic 1                   | - Slides: `Magnetic_1.pdf`_    |
+|      |    |    |                                | - Video: `Magnetic_1a`_        |
+|      |    |    |                                | - Video: `Magnetic_1b`_        |
 +      +----+----+--------------------------------+--------------------------------+
 |      | 15 | 4  | - Magnetic 2                   |                                |
 +      +----+----+--------------------------------+--------------------------------+
@@ -52,6 +54,8 @@ This page will be updated regularly throughout the term, check it often.
 .. _Gravity_3a: https://v.youku.com/v_show/id_XNDA4ODEwODgyNA==.html?spm=a2h1n.8251843.playList.5!7~5~A&f=52111023&o=1
 .. _Gravity_3b: https://v.youku.com/v_show/id_XNDA4ODEwODg2NA==.html?spm=a2h1n.8251843.playList.5!8~5~A&f=52111023&o=1
 .. _Magnetic_1.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Magnetic_1.pdf
+.. _Magnetic_1a: https://v.youku.com/v_show/id_XNDA5MDI4OTY4MA==.html?spm=a2h1n.8251843.playList.5!10~5~A&f=52111023&o=1
+.. _Magnetic_1b: https://v.youku.com/v_show/id_XNDA5MDI4OTcxNg==.html?spm=a2h1n.8251843.playList.5!11~5~A&f=52111023&o=1
 
 .. toctree::
     :hidden:
