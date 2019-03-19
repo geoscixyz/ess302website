@@ -45,7 +45,7 @@ This page will be updated regularly throughout the term, check it often.
 |      +----+----+--------------------------------+--------------------------------+
 |      | 17 | 9  | - EM_Induction 3               |                                |
 |      +----+----+--------------------------------+--------------------------------+
-|      | 19 | 9  | - Mid-term exam                | - Reading project worksheet due|
+|      | 19 | 9  | - Mid-term exam                | - Reading worksheet due        |
 +------+----+----+--------------------------------+--------------------------------+
 
 
