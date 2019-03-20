@@ -31,7 +31,7 @@ This page will be updated regularly throughout the term, check it often.
 +      +----+----+--------------------------------+--------------------------------+
 |      | 15 | 4  | - Magnetic 2                   | - Slides: `Magnetic_2.pdf`_    |
 +      +----+----+--------------------------------+--------------------------------+
-|      | 20 | 5  | - Magnetic 3                   |                                |
+|      | 20 | 5  | - Magnetic 3                   | - Slides: `Magnetic_3.pdf`_    |
 +------+----+----+--------------------------------+--------------------------------+
 |Mar   | 22 | 5  | - Electrical 1                 |                                |
 |      +----+----+--------------------------------+--------------------------------+
@@ -45,7 +45,7 @@ This page will be updated regularly throughout the term, check it often.
 |      +----+----+--------------------------------+--------------------------------+
 |      | 17 | 9  | - EM_Induction 3               |                                |
 |      +----+----+--------------------------------+--------------------------------+
-|      | 19 | 9  | - Mid-term exam                | - Reading worksheet due        |
+|      | 19 | 9  | - Mid-term exam                | - **Reading worksheet due**    |
 +------+----+----+--------------------------------+--------------------------------+
 
 
@@ -69,6 +69,7 @@ This page will be updated regularly throughout the term, check it often.
 .. _Magnetic_1a: https://v.youku.com/v_show/id_XNDA5MDI4OTY4MA==.html?spm=a2h1n.8251843.playList.5!10~5~A&f=52111023&o=1
 .. _Magnetic_1b: https://v.youku.com/v_show/id_XNDA5MDI4OTcxNg==.html?spm=a2h1n.8251843.playList.5!11~5~A&f=52111023&o=1
 .. _Magnetic_2.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Magnetic_2.pdf
+.. _Magnetic_3.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Magnetic_3.pdf
 
 .. toctree::
     :hidden:
