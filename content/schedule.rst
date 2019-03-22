@@ -30,10 +30,12 @@ This page will be updated regularly throughout the term, check it often.
 |      |    |    |                                | - Video: `Magnetic_1b`_        |
 +      +----+----+--------------------------------+--------------------------------+
 |      | 15 | 4  | - Magnetic 2                   | - Slides: `Magnetic_2.pdf`_    |
+|      |    |    |                                | - Video: `Magnetic_2a`_        |
+|      |    |    |                                | - Video: `Magnetic_2b`_        |
 +      +----+----+--------------------------------+--------------------------------+
 |      | 20 | 5  | - Magnetic 3                   | - Slides: `Magnetic_3.pdf`_    |
 +------+----+----+--------------------------------+--------------------------------+
-|Mar   | 22 | 5  | - Electrical 1                 |                                |
+|Mar   | 22 | 5  | - Electrical 1                 | - Slides: `Electrical_1.pdf`_  |
 |      +----+----+--------------------------------+--------------------------------+
 |      | 29 | 6  | - Electrical 2                 |                                |
 +------+----+----+--------------------------------+--------------------------------+
@@ -70,6 +72,9 @@ This page will be updated regularly throughout the term, check it often.
 .. _Magnetic_1b: https://v.youku.com/v_show/id_XNDA5MDI4OTcxNg==.html?spm=a2h1n.8251843.playList.5!11~5~A&f=52111023&o=1
 .. _Magnetic_2.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Magnetic_2.pdf
 .. _Magnetic_3.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Magnetic_3.pdf
+.. _Electrical_1.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Electrical_1.pdf
+.. _Magnetic_2a: https://v.youku.com/v_show/id_XNDEwMjMwMjMxNg==.html?spm=a2h1n.8251843.playList.5!12~5~A&f=52111023&o=1
+.. _Magnetic_2b: https://v.youku.com/v_show/id_XNDEwMjMwMjQ0NA==.html?spm=a2h1n.8251843.playList.5!13~5~A&f=52111023&o=1
 
 .. toctree::
     :hidden:
