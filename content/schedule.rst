@@ -71,10 +71,11 @@ This page will be updated regularly throughout the term, check it often.
 .. _Magnetic_1a: https://v.youku.com/v_show/id_XNDA5MDI4OTY4MA==.html?spm=a2h1n.8251843.playList.5!10~5~A&f=52111023&o=1
 .. _Magnetic_1b: https://v.youku.com/v_show/id_XNDA5MDI4OTcxNg==.html?spm=a2h1n.8251843.playList.5!11~5~A&f=52111023&o=1
 .. _Magnetic_2.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Magnetic_2.pdf
-.. _Magnetic_3.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Magnetic_3.pdf
-.. _Electrical_1.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Electrical_1.pdf
 .. _Magnetic_2a: https://v.youku.com/v_show/id_XNDEwMjMwMjMxNg==.html?spm=a2h1n.8251843.playList.5!12~5~A&f=52111023&o=1
 .. _Magnetic_2b: https://v.youku.com/v_show/id_XNDEwMjMwMjQ0NA==.html?spm=a2h1n.8251843.playList.5!13~5~A&f=52111023&o=1
+.. _Magnetic_3.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Magnetic_3.pdf
+.. _Electrical_1.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Electrical_1.pdf
+
 
 .. toctree::
     :hidden:
