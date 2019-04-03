@@ -39,7 +39,7 @@ This page will be updated regularly throughout the term, check it often.
 |      +----+----+--------------------------------+--------------------------------+
 |      | 29 | 6  | - Electrical 2                 | - Slides: `Electrical_2.pdf`_  |
 +------+----+----+--------------------------------+--------------------------------+
-|Apr   | 3  | 7  | - Electrical 3                 |                                |
+|Apr   | 3  | 7  | - Electrical 3                 | - Slides: `Electrical_3.pdf`_  |
 |      +----+----+--------------------------------+--------------------------------+
 |      | 5  | 7  | - No class                     |                                |
 |      +----+----+--------------------------------+--------------------------------+
@@ -76,6 +76,7 @@ This page will be updated regularly throughout the term, check it often.
 .. _Magnetic_3.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Magnetic_3.pdf
 .. _Electrical_1.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Electrical_1.pdf
 .. _Electrical_2.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Electrical_2.pdf
+.. _Electrical_3.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Electrical_3.pdf
 
 
 .. toctree::
