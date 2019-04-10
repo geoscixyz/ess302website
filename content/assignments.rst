@@ -29,7 +29,7 @@ Please turn in your assignment in print or by email.
 
 - Magnetic: `Block`_ (Due date: No later than Mar 31, 2019)
 
-- Electrical: TBA (Due date: )
+- Electrical: `TwoLayers`_ (Due date: No later than April 28, 2019)
 
 - Electromagnetic (induction): TBA (Due date: )
 
@@ -45,3 +45,4 @@ Please turn in your assignment in print or by email.
 .. _Reading_Project_Fact_Sheet.docx: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Reading_Project_Fact_Sheet_2019.docx
 .. _Spheres: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Gravity_Assignment.docx
 .. _Block: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Magnetic_Assignment.docx
+.. _TwoLayers: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Electrical_Assignment.docx
