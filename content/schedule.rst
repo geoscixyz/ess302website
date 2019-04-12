@@ -34,16 +34,22 @@ This page will be updated regularly throughout the term, check it often.
 |      |    |    |                                | - Video: `Magnetic_2b`_        |
 +      +----+----+--------------------------------+--------------------------------+
 |      | 20 | 5  | - Magnetic 3                   | - Slides: `Magnetic_3.pdf`_    |
+|      |    |    |                                | - Video: `Magnetic_3a`_        |
+|      |    |    |                                | - Video: `Magnetic_3b`_        |
 +------+----+----+--------------------------------+--------------------------------+
 |Mar   | 22 | 5  | - Electrical 1                 | - Slides: `Electrical_1.pdf`_  |
+|      |    |    |                                | - Video: `Electrical_1`_       |
 |      +----+----+--------------------------------+--------------------------------+
 |      | 29 | 6  | - Electrical 2                 | - Slides: `Electrical_2.pdf`_  |
+|      |    |    |                                | - Video: `Electrical_2a`_      |
+|      |    |    |                                | - Video: `Electrical_2b`_      |
 +------+----+----+--------------------------------+--------------------------------+
 |Apr   | 3  | 7  | - Electrical 3                 | - Slides: `Electrical_3.pdf`_  |
+|      |    |    |                                | - Video: `Electrical_3`_       |
 |      +----+----+--------------------------------+--------------------------------+
 |      | 5  | 7  | - No class                     |                                |
 |      +----+----+--------------------------------+--------------------------------+
-|      | 12 | 8  | - Electrical 4                 |                                |
+|      | 12 | 8  | - Electrical 4                 | - Slides: `Electrical_4.pdf`_  |
 |      +----+----+--------------------------------+--------------------------------+
 |      | 17 | 9  | - Mid-term review              |                                |
 |      +----+----+--------------------------------+--------------------------------+
@@ -74,9 +80,16 @@ This page will be updated regularly throughout the term, check it often.
 .. _Magnetic_2a: https://v.youku.com/v_show/id_XNDEwMjMwMjMxNg==.html?spm=a2h1n.8251843.playList.5!12~5~A&f=52111023&o=1
 .. _Magnetic_2b: https://v.youku.com/v_show/id_XNDEwMjMwMjQ0NA==.html?spm=a2h1n.8251843.playList.5!13~5~A&f=52111023&o=1
 .. _Magnetic_3.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Magnetic_3.pdf
+.. _Magnetic_3a: https://v.youku.com/v_show/id_XNDEyMzA5MTY4OA==.html?spm=a2h1n.8251843.playList.5!14~5~A&f=52111023&o=1
+.. _Magnetic_3b: https://v.youku.com/v_show/id_XNDEyMzExMDY1Mg==.html?spm=a2h1n.8251843.playList.5!15~5~A&f=52111023&o=1
 .. _Electrical_1.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Electrical_1.pdf
+.. _Electrical_1: https://v.youku.com/v_show/id_XNDEyMzA0MDk2OA==.html?spm=a2h1n.8251843.playList.5!17~5~A&f=52111023&o=1
 .. _Electrical_2.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Electrical_2.pdf
+.. _Electrical_2a: https://v.youku.com/v_show/id_XNDEyMzA0MDcwNA==.html?spm=a2h1n.8251843.playList.5!18~5~A&f=52111023&o=1
+.. _Electrical_2b: https://v.youku.com/v_show/id_XNDEyMzA0MDc5Ng==.html?spm=a2h1n.8251843.playList.5!19~5~A&f=52111023&o=1
 .. _Electrical_3.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Electrical_3.pdf
+.. _Electrical_3: https://v.youku.com/v_show/id_XNDEzMzY1MTI1Mg==.html?spm=a2h1n.8251843.playList.5!20~5~A&f=52111023&o=1
+.. _Electrical_4.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Electrical_4.pdf
 
 
 .. toctree::
