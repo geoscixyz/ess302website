@@ -28,14 +28,14 @@ Contact Information
 
 **Instructors:**
 
-- Dikun Yang:         yangdk@sustc.edu.cn, Chuangyuan 9-406B
+- Dikun Yang:         yangdk@sustech.edu.cn, Chuangyuan 9-406B
 
 Office hours: contact the instructors via email to set up an appointment. Please include
 'ESS302' in the subject line.
 
 **Teaching Assistants:**
 
-- Yinchu Li: 11849188@mail.sustc.edu.cn, Chuangyuan 9-406B
+- Yinchu Li: 11849188@mail.sustech.edu.cn, Chuangyuan 9-406B
 
 
 Office hours: contact the TA's by e-mail or in person for availability. Please include
