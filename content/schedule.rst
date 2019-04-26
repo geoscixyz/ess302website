@@ -112,7 +112,7 @@ This page will be updated regularly throughout the term, check it often.
 .. _Electrical_3.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Electrical_3.pdf
 .. _Electrical_3: https://v.youku.com/v_show/id_XNDEzMzY1MTI1Mg==.html?spm=a2h1n.8251843.playList.5!20~5~A&f=52111023&o=1
 .. _Electrical_4.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Electrical_4.pdf
-.. _EM_4.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/EM_1.pdf
+.. _EM_1.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/EM_1.pdf
 
 
 .. toctree::
