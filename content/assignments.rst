@@ -31,9 +31,9 @@ Please turn in your assignment in print or by email.
 
 - Electrical: `TwoLayers`_ (Due date: No later than April 28, 2019)
 
-- Electromagnetic (induction): TBA (Due date: )
+- Electromagnetic (geo-radar): `Cylinder`_ (Due date: No later than May 19, 2019)
 
-- Electromagnetic (geo-radar): TBA (Due date: )
+- Electromagnetic (induction): TBA (Due date: )
 
 - Well logging: TBA (Due date: )
 
@@ -46,3 +46,4 @@ Please turn in your assignment in print or by email.
 .. _Spheres: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Gravity_Assignment.docx
 .. _Block: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Magnetic_Assignment.docx
 .. _TwoLayers: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Electrical_Assignment.docx
+.. _Cylinder: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/GPR_Assignment.docx

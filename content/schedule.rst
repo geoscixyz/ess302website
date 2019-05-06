@@ -50,28 +50,34 @@ This page will be updated regularly throughout the term, check it often.
 |      | 5  | 7  | - No class                     |                                |
 |      +----+----+--------------------------------+--------------------------------+
 |      | 12 | 8  | - Electrical 4                 | - Slides: `Electrical_4.pdf`_  |
+|      |    |    |                                | - Video: `Electrical_4a`_      |
+|      |    |    |                                | - Video: `Electrical_4b`_      |
 |      +----+----+--------------------------------+--------------------------------+
 |      | 17 | 9  | - Mid-term review              |                                |
 |      +----+----+--------------------------------+--------------------------------+
 |      | 19 | 9  | - Mid-term exam                | - **Reading worksheet due**    |
 |      +----+----+--------------------------------+--------------------------------+
 |      | 26 | 10 | - EM 1 (GPR)                   | - Slides: `EM_1.pdf`_          |
+|      |    |    |                                | - Video: `EM_1a`_              |
+|      |    |    |                                | - Video: `EM_1b`_              |
 +------+----+----+--------------------------------+--------------------------------+
 |May   | 1  | 11 | - No class                     |                                |
 |      +----+----+--------------------------------+--------------------------------+
-|      | 5  | 11 | - EM 2 (GPR)                   | - Slides:                      |
+|      | 5  | 11 | - EM 2 (GPR)                   | - Slides: `EM_2.pdf`_          |
+|      |    |    |                                | - Video: `EM_2a`_              |
+|      |    |    |                                | - Video: `EM_2b`_              |
 |      +----+----+--------------------------------+--------------------------------+
 |      | 10 | 12 | - EM 3 (Induction)             | - Slides:                      |
 |      +----+----+--------------------------------+--------------------------------+
-|      | 15 | 13 | - EM 4 (Induction)             | - Slides:                      |
+|      | 13 | 13 | - EM 4 (Induction)             | - Slides:                      |
 |      +----+----+--------------------------------+--------------------------------+
-|      | 17 | 13 | - Well logging                 | - Slides:                      |
+|      | 15 | 13 | - Well logging                 | - Slides:                      |
 |      +----+----+--------------------------------+--------------------------------+
-|      | 24 | 14 | - Inversion 1                  | - Slides:                      |
+|      | 17 | 13 | - Inversion                    | - Slides:                      |
 |      +----+----+--------------------------------+--------------------------------+
-|      | 29 | 15 | - Inversion 2                  | - Slides:                      |
+|      | 29 | 15 | - Integrated methods           | - Slides:                      |
 |      +----+----+--------------------------------+--------------------------------+
-|      | 31 | 15 | - Integrated methods           | - Slides:                      |
+|      | 31 | 15 | - Final review                 | - Slides:                      |
 |      |    |    | - Student presentations        |                                |
 +------+----+----+--------------------------------+--------------------------------+
 |Jun   | 5  | 16 | - Final exam                   | - 8:00 ~ 10:00                 |
@@ -112,7 +118,14 @@ This page will be updated regularly throughout the term, check it often.
 .. _Electrical_3.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Electrical_3.pdf
 .. _Electrical_3: https://v.youku.com/v_show/id_XNDEzMzY1MTI1Mg==.html?spm=a2h1n.8251843.playList.5!20~5~A&f=52111023&o=1
 .. _Electrical_4.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Electrical_4.pdf
+.. _Electrical_4a: https://v.youku.com/v_show/id_XNDE1OTMxNzk4MA==.html?spm=a2h1n.8251843.playList.5!21~5~A&f=52111023&o=1
+.. _Electrical_4b: https://v.youku.com/v_show/id_XNDE1OTMxODEyNA==.html?spm=a2h1n.8251843.playList.5!22~5~A&f=52111023&o=1
 .. _EM_1.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/EM_1.pdf
+.. _EM_1a: https://v.youku.com/v_show/id_XNDE1OTMxNzQzMg==.html?spm=a2h1n.8251843.playList.5!23~5~A&f=52111023&o=1
+.. _EM_1b: https://v.youku.com/v_show/id_XNDE1OTM4Njc4OA==.html?spm=a2h1n.8251843.playList.5!24~5~A&f=52111023&o=1
+.. _EM_2.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/EM_2.pdf
+.. _EM_2a: https://v.youku.com/v_show/id_XNDE2Njk4MzY4NA==.html?spm=a2h1n.8251843.playList.5!25~5~A&f=52111023&o=1
+.. _EM_2b: https://v.youku.com/v_show/id_XNDE2Njk4NDEyNA==.html?spm=a2h1n.8251843.playList.5!26~5~A&f=52111023&o=1
 
 
 .. toctree::
