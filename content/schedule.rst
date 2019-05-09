@@ -70,7 +70,7 @@ This page will be updated regularly throughout the term, check it often.
 |      | 10 | 12 | - EM 3 (Induction)             | - Slides:                      |
 |      +----+----+--------------------------------+--------------------------------+
 |      | 13 | 13 | - EM 4 (Induction)             | - Slides:                      |
-|      |    |    | - Liyuan 6-403                 | - Video:                       |
+|      |    |    | - 10:20 at Liyuan 6-403        | - Video:                       |
 |      +----+----+--------------------------------+--------------------------------+
 |      | 15 | 13 | - Well logging                 | - Slides:                      |
 |      +----+----+--------------------------------+--------------------------------+
@@ -80,7 +80,7 @@ This page will be updated regularly throughout the term, check it often.
 |      +----+----+--------------------------------+--------------------------------+
 |      | 31 | 15 | - Final review                 | - Slides:                      |
 |      |    |    | - Student presentations        |                                |
-|      |    |    | - Liyuan 6-405                 | - Video:                       |
+|      |    |    | - 19:00 at Liyuan 6-405        | - Video:                       |
 +------+----+----+--------------------------------+--------------------------------+
 |Jun   | 5  | 16 | - Final exam                   | - 8:00 ~ 10:00                 |
 |      |    |    |                                | - Room 207, Liyuan Building 1  |
