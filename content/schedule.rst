@@ -67,9 +67,9 @@ This page will be updated regularly throughout the term, check it often.
 |      |    |    |                                | - Video: `EM_2a`_              |
 |      |    |    |                                | - Video: `EM_2b`_              |
 |      +----+----+--------------------------------+--------------------------------+
-|      | 10 | 12 | - EM 3 (Induction)             | - Slides:                      |
+|      | 10 | 12 | - EM 3 (Induction)             | - Slides:  `EM_3.pdf`_         |
 |      +----+----+--------------------------------+--------------------------------+
-|      | 13 | 13 | - EM 4 (Induction)             | - Slides:                      |
+|      | 13 | 13 | - EM 4 (Induction)             | - Slides: `EM_4.pdf`_          |
 |      |    |    | - 10:20 at Liyuan 6-403        | - Video:                       |
 |      +----+----+--------------------------------+--------------------------------+
 |      | 15 | 13 | - Well logging                 | - Slides:                      |
@@ -128,6 +128,7 @@ This page will be updated regularly throughout the term, check it often.
 .. _EM_2.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/EM_2.pdf
 .. _EM_2a: https://v.youku.com/v_show/id_XNDE2Njk4MzY4NA==.html?spm=a2h1n.8251843.playList.5!25~5~A&f=52111023&o=1
 .. _EM_2b: https://v.youku.com/v_show/id_XNDE2Njk4NDEyNA==.html?spm=a2h1n.8251843.playList.5!26~5~A&f=52111023&o=1
+.. _EM_3.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/EM_3.pdf
 
 
 .. toctree::
