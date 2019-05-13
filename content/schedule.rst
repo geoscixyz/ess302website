@@ -72,9 +72,9 @@ This page will be updated regularly throughout the term, check it often.
 |      | 13 | 13 | - EM 4 (Induction)             | - Slides: `EM_4.pdf`_          |
 |      |    |    | - 10:20 at Liyuan 6-403        | - Video:                       |
 |      +----+----+--------------------------------+--------------------------------+
-|      | 15 | 13 | - Well logging                 | - Slides:                      |
+|      | 15 | 13 | - EM 5 (Induction & inversion) | - Slides:                      |
 |      +----+----+--------------------------------+--------------------------------+
-|      | 17 | 13 | - Inversion                    | - Slides:                      |
+|      | 17 | 13 | - Well logging                 | - Slides:                      |
 |      +----+----+--------------------------------+--------------------------------+
 |      | 31 | 15 | - Integrated methods           | - Slides:                      |
 |      +----+----+--------------------------------+--------------------------------+
@@ -129,6 +129,7 @@ This page will be updated regularly throughout the term, check it often.
 .. _EM_2a: https://v.youku.com/v_show/id_XNDE2Njk4MzY4NA==.html?spm=a2h1n.8251843.playList.5!25~5~A&f=52111023&o=1
 .. _EM_2b: https://v.youku.com/v_show/id_XNDE2Njk4NDEyNA==.html?spm=a2h1n.8251843.playList.5!26~5~A&f=52111023&o=1
 .. _EM_3.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/EM_3.pdf
+.. _EM_4.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/EM_4.pdf
 
 
 .. toctree::
