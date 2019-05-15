@@ -68,11 +68,14 @@ This page will be updated regularly throughout the term, check it often.
 |      |    |    |                                | - Video: `EM_2b`_              |
 |      +----+----+--------------------------------+--------------------------------+
 |      | 10 | 12 | - EM 3 (Induction)             | - Slides:  `EM_3.pdf`_         |
+|      |    |    |                                | - Video: `EM_3a`_              |
+|      |    |    |                                | - Video: `EM_3b`_              |
 |      +----+----+--------------------------------+--------------------------------+
 |      | 13 | 13 | - EM 4 (Induction)             | - Slides: `EM_4.pdf`_          |
-|      |    |    | - 10:20 at Liyuan 6-403        | - Video:                       |
+|      |    |    | - 10:20 at Liyuan 6-403        | - Video: `EM_4a`_              |
+|      |    |    |                                | - Video: `EM_4b`_              |
 |      +----+----+--------------------------------+--------------------------------+
-|      | 15 | 13 | - EM 5 (Induction & inversion) | - Slides:                      |
+|      | 15 | 13 | - EM 5 (Induction)             | - Slides: `EM_5.pdf`_          |
 |      +----+----+--------------------------------+--------------------------------+
 |      | 17 | 13 | - Well logging                 | - Slides:                      |
 |      +----+----+--------------------------------+--------------------------------+
@@ -129,7 +132,12 @@ This page will be updated regularly throughout the term, check it often.
 .. _EM_2a: https://v.youku.com/v_show/id_XNDE2Njk4MzY4NA==.html?spm=a2h1n.8251843.playList.5!25~5~A&f=52111023&o=1
 .. _EM_2b: https://v.youku.com/v_show/id_XNDE2Njk4NDEyNA==.html?spm=a2h1n.8251843.playList.5!26~5~A&f=52111023&o=1
 .. _EM_3.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/EM_3.pdf
+.. _EM_3a: https://v.youku.com/v_show/id_XNDE4MDAyNTc0NA==.html?spm=a2h1n.8251843.playList.5!27~5~A&f=52111023&o=1
+.. _EM_3b: https://v.youku.com/v_show/id_XNDE4MDAyNTg0MA==.html?spm=a2h1n.8251843.playList.5!28~5~A&f=52111023&o=1
 .. _EM_4.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/EM_4.pdf
+.. _EM_4a: https://v.youku.com/v_show/id_XNDE4MDAyNTYwMA==.html?spm=a2h1n.8251843.playList.5!29~5~A&f=52111023&o=1
+.. _EM_4b: https://v.youku.com/v_show/id_XNDE4MDIxMjc5Ng==.html?spm=a2h1n.8251843.playList.5!30~5~A&f=52111023&o=1
+.. _EM_5.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/EM_5.pdf
 
 
 .. toctree::
