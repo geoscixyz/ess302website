@@ -77,7 +77,7 @@ This page will be updated regularly throughout the term, check it often.
 |      +----+----+--------------------------------+--------------------------------+
 |      | 15 | 13 | - EM 5 (Induction)             | - Slides: `EM_5.pdf`_          |
 |      +----+----+--------------------------------+--------------------------------+
-|      | 17 | 13 | - Well logging                 | - Slides:                      |
+|      | 17 | 13 | - Well logging                 | - Slides: `Welllogging_1.pdf`_ |
 |      +----+----+--------------------------------+--------------------------------+
 |      | 31 | 15 | - Integrated methods           | - Slides:                      |
 |      +----+----+--------------------------------+--------------------------------+
@@ -138,6 +138,7 @@ This page will be updated regularly throughout the term, check it often.
 .. _EM_4a: https://v.youku.com/v_show/id_XNDE4MDAyNTYwMA==.html?spm=a2h1n.8251843.playList.5!29~5~A&f=52111023&o=1
 .. _EM_4b: https://v.youku.com/v_show/id_XNDE4MDIxMjc5Ng==.html?spm=a2h1n.8251843.playList.5!30~5~A&f=52111023&o=1
 .. _EM_5.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/EM_5.pdf
+.. _Welllogging_1.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Welllogging_1.pdf
 
 
 .. toctree::
