@@ -76,14 +76,18 @@ This page will be updated regularly throughout the term, check it often.
 |      |    |    |                                | - Video: `EM_4b`_              |
 |      +----+----+--------------------------------+--------------------------------+
 |      | 15 | 13 | - EM 5 (Induction)             | - Slides: `EM_5.pdf`_          |
+|      |    |    |                                | - Video: `EM_5a`_              |
+|      |    |    |                                | - Video: `EM_5b`_              |
 |      +----+----+--------------------------------+--------------------------------+
 |      | 17 | 13 | - Well logging                 | - Slides: `Welllogging_1.pdf`_ |
+|      |    |    |                                | - Video: `Welllogging_1a`_     |
+|      |    |    |                                | - Video: `Welllogging_1b`_     |
 |      +----+----+--------------------------------+--------------------------------+
-|      | 31 | 15 | - Integrated methods           | - Slides:                      |
+|      | 31 | 15 | - Integrated methods           | - Slides: N/A                  |
 |      +----+----+--------------------------------+--------------------------------+
-|      | 31 | 15 | - Final review                 | - Slides:                      |
+|      | 31 | 15 | - Final review                 | - Slides: N/A                  |
 |      |    |    | - Student presentations        |                                |
-|      |    |    | - 19:00 at Liyuan 6-405        | - Video:                       |
+|      |    |    | - 19:00 at Liyuan 6-405        |                                |
 +------+----+----+--------------------------------+--------------------------------+
 |Jun   | 5  | 16 | - Final exam                   | - 8:00 ~ 10:00                 |
 |      |    |    |                                | - Room 207, Liyuan Building 1  |
@@ -138,7 +142,11 @@ This page will be updated regularly throughout the term, check it often.
 .. _EM_4a: https://v.youku.com/v_show/id_XNDE4MDAyNTYwMA==.html?spm=a2h1n.8251843.playList.5!29~5~A&f=52111023&o=1
 .. _EM_4b: https://v.youku.com/v_show/id_XNDE4MDIxMjc5Ng==.html?spm=a2h1n.8251843.playList.5!30~5~A&f=52111023&o=1
 .. _EM_5.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/EM_5.pdf
+.. _EM_5a: https://v.youku.com/v_show/id_XNDE5ODYwNTY4OA==.html?spm=a2h1n.8251843.playList.5!31~5~A&f=52111023&o=1
+.. _EM_5b: https://v.youku.com/v_show/id_XNDE5ODYwNTk5Mg==.html?spm=a2h1n.8251843.playList.5!32~5~A&f=52111023&o=1
 .. _Welllogging_1.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Welllogging_1.pdf
+.. _Welllogging_1a: https://v.youku.com/v_show/id_XNDE5ODYwNTc2OA==.html?spm=a2h1n.8251843.playList.5!33~5~A&f=52111023&o=1
+.. _Welllogging_1b: https://v.youku.com/v_show/id_XNDE5ODUyMTA2NA==.html?spm=a2h1n.8251843.playList.5!34~5~A&f=52111023&o=1
 
 
 .. toctree::
