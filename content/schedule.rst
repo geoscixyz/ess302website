@@ -3,150 +3,25 @@
 Course Schedule
 ===============
 
-This page will be updated regularly throughout the term, check it often.
+This page will be updated regularly throughout the term. Check it often.
 
 +------+----+----+--------------------------------+--------------------------------+
 |Month | Day|Week| Topics or activities           | Links                          |
 +------+----+----+--------------------------------+--------------------------------+
-|Feb   | 20 | 1  | - Introduction                 | - Slides: `Introduction.pdf`_  |
-|      |    |    | - Framework and physical       | - Slides: `Framework.pdf`_     |
-|      |    |    |   properties                   | - Video: `Introduction`_       |
-|      |    |    |                                | - Video: `Framework`_          |
+|Feb   | 21 | 2  | - Course introduction          | - Slides: `Introduction.pdf`_  |
+|      |    |    |                                | - Video: `Introduction`_       |
 +      +----+----+--------------------------------+--------------------------------+
-|      | 22 | 1  | - Gravity 1                    | - Slides: `Gravity_1.pdf`_     |
-|      |    |    |                                | - Video: `Gravity_1a`_         |
-|      |    |    |                                | - Video: `Gravity_1b`_         |
+|      | 25 | 3  | - Gravity 1                    | - Slides:                      |
+|      |    |    |                                | - Video:                       |
 +------+----+----+--------------------------------+--------------------------------+
-|Mar   | 1  | 2  | - Gravity 2                    | - Slides: `Gravity_2.pdf`_     |
-|      |    |    |                                | - Video: `Gravity_2a`_         |
-|      |    |    |                                | - Video: `Gravity_2b`_         |
-+      +----+----+--------------------------------+--------------------------------+
-|      | 6  | 3  | - Gravity 3                    | - Slides: `Gravity_3.pdf`_     |
-|      |    |    |                                | - Video: `Gravity_3a`_         |
-|      |    |    |                                | - Video: `Gravity_3b`_         |
-+      +----+----+--------------------------------+--------------------------------+
-|      | 8  | 3  | - Magnetic 1                   | - Slides: `Magnetic_1.pdf`_    |
-|      |    |    |                                | - Video: `Magnetic_1a`_        |
-|      |    |    |                                | - Video: `Magnetic_1b`_        |
-+      +----+----+--------------------------------+--------------------------------+
-|      | 15 | 4  | - Magnetic 2                   | - Slides: `Magnetic_2.pdf`_    |
-|      |    |    |                                | - Video: `Magnetic_2a`_        |
-|      |    |    |                                | - Video: `Magnetic_2b`_        |
-+      +----+----+--------------------------------+--------------------------------+
-|      | 20 | 5  | - Magnetic 3                   | - Slides: `Magnetic_3.pdf`_    |
-|      |    |    |                                | - Video: `Magnetic_3a`_        |
-|      |    |    |                                | - Video: `Magnetic_3b`_        |
-+------+----+----+--------------------------------+--------------------------------+
-|Mar   | 22 | 5  | - Electrical 1                 | - Slides: `Electrical_1.pdf`_  |
-|      |    |    |                                | - Video: `Electrical_1`_       |
-|      +----+----+--------------------------------+--------------------------------+
-|      | 29 | 6  | - Electrical 2                 | - Slides: `Electrical_2.pdf`_  |
-|      |    |    |                                | - Video: `Electrical_2a`_      |
-|      |    |    |                                | - Video: `Electrical_2b`_      |
-+------+----+----+--------------------------------+--------------------------------+
-|Apr   | 3  | 7  | - Electrical 3                 | - Slides: `Electrical_3.pdf`_  |
-|      |    |    |                                | - Video: `Electrical_3`_       |
-|      +----+----+--------------------------------+--------------------------------+
-|      | 5  | 7  | - No class                     |                                |
-|      +----+----+--------------------------------+--------------------------------+
-|      | 12 | 8  | - Electrical 4                 | - Slides: `Electrical_4.pdf`_  |
-|      |    |    |                                | - Video: `Electrical_4a`_      |
-|      |    |    |                                | - Video: `Electrical_4b`_      |
-|      +----+----+--------------------------------+--------------------------------+
-|      | 17 | 9  | - Mid-term review              |                                |
-|      +----+----+--------------------------------+--------------------------------+
-|      | 19 | 9  | - Mid-term exam                | - **Reading worksheet due**    |
-|      +----+----+--------------------------------+--------------------------------+
-|      | 26 | 10 | - EM 1 (GPR)                   | - Slides: `EM_1.pdf`_          |
-|      |    |    |                                | - Video: `EM_1a`_              |
-|      |    |    |                                | - Video: `EM_1b`_              |
-+------+----+----+--------------------------------+--------------------------------+
-|May   | 1  | 11 | - No class                     |                                |
-|      +----+----+--------------------------------+--------------------------------+
-|      | 5  | 11 | - EM 2 (GPR)                   | - Slides: `EM_2.pdf`_          |
-|      |    |    |                                | - Video: `EM_2a`_              |
-|      |    |    |                                | - Video: `EM_2b`_              |
-|      +----+----+--------------------------------+--------------------------------+
-|      | 10 | 12 | - EM 3 (Induction)             | - Slides:  `EM_3.pdf`_         |
-|      |    |    |                                | - Video: `EM_3a`_              |
-|      |    |    |                                | - Video: `EM_3b`_              |
-|      +----+----+--------------------------------+--------------------------------+
-|      | 13 | 13 | - EM 4 (Induction)             | - Slides: `EM_4.pdf`_          |
-|      |    |    | - 10:20 at Liyuan 6-403        | - Video: `EM_4a`_              |
-|      |    |    |                                | - Video: `EM_4b`_              |
-|      +----+----+--------------------------------+--------------------------------+
-|      | 15 | 13 | - EM 5 (Induction)             | - Slides: `EM_5.pdf`_          |
-|      |    |    |                                | - Video: `EM_5a`_              |
-|      |    |    |                                | - Video: `EM_5b`_              |
-|      +----+----+--------------------------------+--------------------------------+
-|      | 17 | 13 | - Well logging                 | - Slides: `Welllogging_1.pdf`_ |
-|      |    |    |                                | - Video: `Welllogging_1a`_     |
-|      |    |    |                                | - Video: `Welllogging_1b`_     |
-|      +----+----+--------------------------------+--------------------------------+
-|      | 31 | 15 | - Integrated methods           | - Slides: N/A                  |
-|      +----+----+--------------------------------+--------------------------------+
-|      | 31 | 15 | - Final review                 | - Slides: N/A                  |
-|      |    |    | - Student presentations        |                                |
-|      |    |    | - 19:00 at Liyuan 6-405        |                                |
-+------+----+----+--------------------------------+--------------------------------+
-|Jun   | 5  | 16 | - Final exam                   | - 8:00 ~ 10:00                 |
-|      |    |    |                                | - Room 207, Liyuan Building 1  |
-+------+----+----+--------------------------------+--------------------------------+
+
 
 
 .. ============= Links ==========================
 
 .. ------------- General ------------------------
-.. _Introduction.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Introduction.pdf
-.. _Framework.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Framework_and_Physical_Properties.pdf
+.. _Introduction.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/Introduction.pdf
 .. _Introduction: http://v.youku.com/v_show/id_XNDA3NjU1NzAyOA==.html?spm=a2h1n.8251843.playList.5~1!2~3~A&f=52111023&o=1
-.. _Framework: http://v.youku.com/v_show/id_XNDA3NjU1NzA0MA==.html?spm=a2h1n.8251843.playList.5!2~1!2~3~A&f=52111023&o=1
-.. _Gravity_1.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Gravity_1.pdf
-.. _Gravity_1a: http://v.youku.com/v_show/id_XNDA3NzIwNDkwNA==.html?spm=a2h1n.8251843.playList.5!3~1!2~3~A&f=52111023&o=1
-.. _Gravity_1b: http://v.youku.com/v_show/id_XNDA3NzIwNDkwOA==.html?spm=a2h1n.8251843.playList.5!4~1!2~3~A&f=52111023&o=1
-.. _Gravity_2.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Gravity_2.pdf
-.. _Gravity_2a: https://v.youku.com/v_show/id_XNDA4MjIyOTQ5Ng==.html?spm=a2h1n.8251843.playList.5!5~5~A&f=52111023&o=1
-.. _Gravity_2b: https://v.youku.com/v_show/id_XNDA4NzkyOTk2NA==.html?spm=a2h1n.8251843.playList.5!6~5~A&f=52111023&o=1
-.. _Gravity_3.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Gravity_3.pdf
-.. _Gravity_3a: https://v.youku.com/v_show/id_XNDA4ODEwODgyNA==.html?spm=a2h1n.8251843.playList.5!7~5~A&f=52111023&o=1
-.. _Gravity_3b: https://v.youku.com/v_show/id_XNDA4ODEwODg2NA==.html?spm=a2h1n.8251843.playList.5!8~5~A&f=52111023&o=1
-.. _Magnetic_1.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Magnetic_1.pdf
-.. _Magnetic_1a: https://v.youku.com/v_show/id_XNDA5MDI4OTY4MA==.html?spm=a2h1n.8251843.playList.5!10~5~A&f=52111023&o=1
-.. _Magnetic_1b: https://v.youku.com/v_show/id_XNDA5MDI4OTcxNg==.html?spm=a2h1n.8251843.playList.5!11~5~A&f=52111023&o=1
-.. _Magnetic_2.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Magnetic_2.pdf
-.. _Magnetic_2a: https://v.youku.com/v_show/id_XNDEwMjMwMjMxNg==.html?spm=a2h1n.8251843.playList.5!12~5~A&f=52111023&o=1
-.. _Magnetic_2b: https://v.youku.com/v_show/id_XNDEwMjMwMjQ0NA==.html?spm=a2h1n.8251843.playList.5!13~5~A&f=52111023&o=1
-.. _Magnetic_3.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Magnetic_3.pdf
-.. _Magnetic_3a: https://v.youku.com/v_show/id_XNDEyMzA5MTY4OA==.html?spm=a2h1n.8251843.playList.5!14~5~A&f=52111023&o=1
-.. _Magnetic_3b: https://v.youku.com/v_show/id_XNDEyMzExMDY1Mg==.html?spm=a2h1n.8251843.playList.5!15~5~A&f=52111023&o=1
-.. _Electrical_1.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Electrical_1.pdf
-.. _Electrical_1: https://v.youku.com/v_show/id_XNDEyMzA0MDk2OA==.html?spm=a2h1n.8251843.playList.5!17~5~A&f=52111023&o=1
-.. _Electrical_2.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Electrical_2.pdf
-.. _Electrical_2a: https://v.youku.com/v_show/id_XNDEyMzA0MDcwNA==.html?spm=a2h1n.8251843.playList.5!18~5~A&f=52111023&o=1
-.. _Electrical_2b: https://v.youku.com/v_show/id_XNDEyMzA0MDc5Ng==.html?spm=a2h1n.8251843.playList.5!19~5~A&f=52111023&o=1
-.. _Electrical_3.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Electrical_3.pdf
-.. _Electrical_3: https://v.youku.com/v_show/id_XNDEzMzY1MTI1Mg==.html?spm=a2h1n.8251843.playList.5!20~5~A&f=52111023&o=1
-.. _Electrical_4.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Electrical_4.pdf
-.. _Electrical_4a: https://v.youku.com/v_show/id_XNDE1OTMxNzk4MA==.html?spm=a2h1n.8251843.playList.5!21~5~A&f=52111023&o=1
-.. _Electrical_4b: https://v.youku.com/v_show/id_XNDE1OTMxODEyNA==.html?spm=a2h1n.8251843.playList.5!22~5~A&f=52111023&o=1
-.. _EM_1.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/EM_1.pdf
-.. _EM_1a: https://v.youku.com/v_show/id_XNDE1OTMxNzQzMg==.html?spm=a2h1n.8251843.playList.5!23~5~A&f=52111023&o=1
-.. _EM_1b: https://v.youku.com/v_show/id_XNDE1OTM4Njc4OA==.html?spm=a2h1n.8251843.playList.5!24~5~A&f=52111023&o=1
-.. _EM_2.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/EM_2.pdf
-.. _EM_2a: https://v.youku.com/v_show/id_XNDE2Njk4MzY4NA==.html?spm=a2h1n.8251843.playList.5!25~5~A&f=52111023&o=1
-.. _EM_2b: https://v.youku.com/v_show/id_XNDE2Njk4NDEyNA==.html?spm=a2h1n.8251843.playList.5!26~5~A&f=52111023&o=1
-.. _EM_3.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/EM_3.pdf
-.. _EM_3a: https://v.youku.com/v_show/id_XNDE4MDAyNTc0NA==.html?spm=a2h1n.8251843.playList.5!27~5~A&f=52111023&o=1
-.. _EM_3b: https://v.youku.com/v_show/id_XNDE4MDAyNTg0MA==.html?spm=a2h1n.8251843.playList.5!28~5~A&f=52111023&o=1
-.. _EM_4.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/EM_4.pdf
-.. _EM_4a: https://v.youku.com/v_show/id_XNDE4MDAyNTYwMA==.html?spm=a2h1n.8251843.playList.5!29~5~A&f=52111023&o=1
-.. _EM_4b: https://v.youku.com/v_show/id_XNDE4MDIxMjc5Ng==.html?spm=a2h1n.8251843.playList.5!30~5~A&f=52111023&o=1
-.. _EM_5.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/EM_5.pdf
-.. _EM_5a: https://v.youku.com/v_show/id_XNDE5ODYwNTY4OA==.html?spm=a2h1n.8251843.playList.5!31~5~A&f=52111023&o=1
-.. _EM_5b: https://v.youku.com/v_show/id_XNDE5ODYwNTk5Mg==.html?spm=a2h1n.8251843.playList.5!32~5~A&f=52111023&o=1
-.. _Welllogging_1.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2019/Welllogging_1.pdf
-.. _Welllogging_1a: https://v.youku.com/v_show/id_XNDE5ODYwNTc2OA==.html?spm=a2h1n.8251843.playList.5!33~5~A&f=52111023&o=1
-.. _Welllogging_1b: https://v.youku.com/v_show/id_XNDE5ODUyMTA2NA==.html?spm=a2h1n.8251843.playList.5!34~5~A&f=52111023&o=1
 
 
 .. toctree::
