@@ -31,6 +31,7 @@ This page will be updated regularly throughout the term. Check it often.
 .. _Introduction: https://www.bilibili.com/video/av90547379
 .. _Gravity_For_Cavity.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/Gravity_For_Cavity.pdf
 .. _Gravity_1: https://www.bilibili.com/video/av91611070
+.. _Gravity_For_Cavity.ipynb: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/Gravity_For_Cavity.ipynb
 
 .. toctree::
     :hidden:
