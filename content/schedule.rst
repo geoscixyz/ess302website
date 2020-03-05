@@ -12,13 +12,21 @@ This page will be updated regularly throughout the term. Check it often.
 |      |    |    | - Lecture                      | - Video: `Introduction`_                  |
 |      |    |    | - `Webcast`_ at 8 am (UTC+8)   |                                           |
 +      +----+----+--------------------------------+-------------------------------------------+
-|      | 25 | 3  | - Gravity 1                    | - Slides: `Gravity_For_Cavity.pdf`_       |
+|      | 25 | 3  | - Gravity                      | - Slides: `Gravity_For_Cavity.pdf`_       |
 |      |    |    | - Lecture                      | - Notebook: `Gravity_For_Cavity.ipynb`_   |
 |      |    |    | - `Webcast`_ at 2 pm (UTC+8)   | - Video: `Gravity_1`_                     |
 +      +----+----+--------------------------------+-------------------------------------------+
-|      | 28 | 3  | - Gravity 2                    | - Slides: `Gravity_For_Cavity.pdf`_       |
+|      | 28 | 3  | - Gravity                      | - Slides: `Gravity_For_Cavity.pdf`_       |
 |      |    |    | - Hands-on exercise            | - Notebook: `Gravity_For_Cavity.ipynb`_   |
 |      |    |    | - Web meeting at 8 am (UTC+8)  | - Video: N/A                              |
++------+----+----+--------------------------------+-------------------------------------------+
+|Mar   | 6  | 4  | - Gravity                      | - Slides: `Gravity_For_Cavity.pdf`_       |
+|      |    |    | - Hands-on exercise            | - Notebook: `Gravity_For_Cavity.ipynb`_   |
+|      |    |    | - Web meeting at 8 am (UTC+8)  | - Video: `The_Amazing_World_Of_Gravity`_  |
++      +----+----+--------------------------------+-------------------------------------------+
+|      | 10 | 5  | - Gravity                      | - Slides:                                 |
+|      |    |    | - Lecture                      | - Video:                                  |
+|      |    |    | - `Webcast`_ at 2 pm (UTC+8)   |                                           |
 +------+----+----+--------------------------------+-------------------------------------------+
 
 
@@ -32,6 +40,7 @@ This page will be updated regularly throughout the term. Check it often.
 .. _Gravity_For_Cavity.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/Gravity_For_Cavity.pdf
 .. _Gravity_1: https://www.bilibili.com/video/av91611070
 .. _Gravity_For_Cavity.ipynb: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/Gravity_For_Cavity.ipynb
+.. _The_Amazing_World_Of_Gravity: https://youtu.be/2_p2ELD7npw
 
 .. toctree::
     :hidden:
