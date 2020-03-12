@@ -27,6 +27,18 @@ This page will be updated regularly throughout the term. Check it often.
 |      | 10 | 5  | - Gravity                      | - Slides: `Gravity_Wrapup.pdf`_           |
 |      |    |    | - Lecture                      | - Video:                                  |
 |      |    |    | - `Webcast`_ at 2 pm (UTC+8)   | - References: `Gravity_Notes.pdf`_        |
++      +----+----+--------------------------------+-------------------------------------------+
+|      | 13 | 5  | - Magnetic                     | - Slides: `Magnetic_For_Pipe.pdf`_        |
+|      |    |    | - Lecture                      | - Notebook: `Magnetic_For_Pipe.ipynb`_    |
+|      |    |    | - `Webcast`_ at 8 am (UTC+8)   | - Video: N/A                              |
++      +----+----+--------------------------------+-------------------------------------------+
+|      | 20 | 6  | - Magnetic                     | - Slides: `Magnetic_For_Pipe.pdf`_        |
+|      |    |    | - Hands-on exercise            | - Notebook: `Magnetic_For_Pipe.ipynb`_    |
+|      |    |    | - Web meeting at 8 am (UTC+8)  | - Video:                                  |
++      +----+----+--------------------------------+-------------------------------------------+
+|      | 24 | 7  | - Magnetic                     | - Slides: `Magnetic_For_Pipe.pdf`_        |
+|      |    |    | - Hands-on exercise            | - Notebook: `Magnetic_For_Pipe.ipynb`_    |
+|      |    |    | - Web meeting at 2 pm (UTC+8)  | - Video:                                  |
 +------+----+----+--------------------------------+-------------------------------------------+
 
 
@@ -43,6 +55,8 @@ This page will be updated regularly throughout the term. Check it often.
 .. _The_Amazing_World_Of_Gravity: https://youtu.be/2_p2ELD7npw
 .. _Gravity_Wrapup.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/Gravity_Wrapup.pdf
 .. _Gravity_Notes.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/Gravity_Notes.pdf
+.. _Magnetic_For_Pipe.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/Magnetic_For_Pipe.pdf
+.. _Magnetic_For_Pipe.ipynb: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/Magnetic_For_Pipe.ipynb
 
 .. toctree::
     :hidden:
