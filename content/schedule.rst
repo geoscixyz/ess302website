@@ -30,15 +30,21 @@ This page will be updated regularly throughout the term. Check it often.
 +      +----+----+--------------------------------+-------------------------------------------+
 |      | 13 | 5  | - Magnetic                     | - Slides: `Magnetic_For_Pipe.pdf`_        |
 |      |    |    | - Lecture                      | - Notebook: `Magnetic_For_Pipe.ipynb`_    |
-|      |    |    | - `Webcast`_ at 8 am (UTC+8)   | - Video: N/A                              |
+|      |    |    | - `Webcast`_ at 8 am (UTC+8)   | - Video: `Magnetic_1`_                    |
 +      +----+----+--------------------------------+-------------------------------------------+
 |      | 20 | 6  | - Magnetic                     | - Slides: `Magnetic_For_Pipe.pdf`_        |
 |      |    |    | - Hands-on exercise            | - Notebook: `Magnetic_For_Pipe.ipynb`_    |
-|      |    |    | - Web meeting at 8 am (UTC+8)  | - Video:                                  |
+|      |    |    | - Web meeting at 8 am (UTC+8)  | - Video: `UAV_Magnetometer_Survey`_       |
 +      +----+----+--------------------------------+-------------------------------------------+
 |      | 24 | 7  | - Magnetic                     | - Slides: `Magnetic_For_Pipe.pdf`_        |
 |      |    |    | - Hands-on exercise            | - Notebook: `Magnetic_For_Pipe.ipynb`_    |
-|      |    |    | - Web meeting at 2 pm (UTC+8)  | - Video:                                  |
+|      |    |    | - Web meeting at 2 pm (UTC+8)  | - Video: `UAV_Magnetometer_Survey`_       |
++      +----+----+--------------------------------+-------------------------------------------+
+|      | 27 | 7  | - Magnetic                     | - Slides: `Magnetic_Wrapup.pdf`_          |
+|      |    |    | - Lecture                      | - Video:                                  |
+|      |    |    | - `Webcast`_ at 8 am (UTC+8)   |                                           |
++------+----+----+--------------------------------+-------------------------------------------+
+|Apr   | 3  | 8  | - Mid-term exam                | - Exam paper available on the day of exam |
 +------+----+----+--------------------------------+-------------------------------------------+
 
 
@@ -58,6 +64,11 @@ This page will be updated regularly throughout the term. Check it often.
 .. _Gravity_2: https://www.bilibili.com/video/av95420959
 .. _Magnetic_For_Pipe.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/Magnetic_For_Pipe.pdf
 .. _Magnetic_For_Pipe.ipynb: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/Magnetic_For_Pipe.ipynb
+.. _Magnetic_1: https://www.bilibili.com/video/BV1vE411G7hJ
+.. _UAV_Magnetometer_Survey: https://youtu.be/Quku39ZvA7E
+.. _Magnetic_Wrapup.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/Magnetic_Wrapup.pdf
+
+
 
 .. toctree::
     :hidden:
