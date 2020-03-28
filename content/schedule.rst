@@ -41,7 +41,7 @@ This page will be updated regularly throughout the term. Check it often.
 |      |    |    | - Web meeting at 2 pm (UTC+8)  | - Video: `UAV_Magnetometer_Survey`_       |
 +      +----+----+--------------------------------+-------------------------------------------+
 |      | 27 | 7  | - Magnetic                     | - Slides: `Magnetic_Wrapup.pdf`_          |
-|      |    |    | - Lecture                      | - Video:                                  |
+|      |    |    | - Lecture                      | - Video: `Magnetic_2`_                    |
 |      |    |    | - `Webcast`_ at 8 am (UTC+8)   |                                           |
 +------+----+----+--------------------------------+-------------------------------------------+
 |Apr   | 3  | 8  | - Mid-term exam                | - Exam paper available on the day of exam |
@@ -67,6 +67,7 @@ This page will be updated regularly throughout the term. Check it often.
 .. _Magnetic_1: https://www.bilibili.com/video/BV1vE411G7hJ
 .. _UAV_Magnetometer_Survey: https://youtu.be/Quku39ZvA7E
 .. _Magnetic_Wrapup.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/Magnetic_Wrapup.pdf
+.. _Magnetic_2: https://www.bilibili.com/video/BV1FA411h7wQ
 
 
 
