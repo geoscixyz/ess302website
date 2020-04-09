@@ -45,6 +45,12 @@ This page will be updated regularly throughout the term. Check it often.
 |      |    |    | - `Webcast`_ at 8 am (UTC+8)   |                                           |
 +------+----+----+--------------------------------+-------------------------------------------+
 |Apr   | 3  | 8  | - Mid-term exam                | - Exam paper available on the day of exam |
++      +----+----+--------------------------------+-------------------------------------------+
+|      | 7  | 9  | - Mid-term review              |                                           |
++      +----+----+--------------------------------+-------------------------------------------+
+|      | 10 | 9  | - Electrical                   | - Slides: `Electrical_For_Lawn.pdf`_      |
+|      |    |    | - Lecture                      | - Notebook: `Electrical_For_Lawn.ipynb`_  |
+|      |    |    | - `Webcast`_ at 8 am (UTC+8)   | - Data: `T190424009`_   `T190424015`_     |
 +------+----+----+--------------------------------+-------------------------------------------+
 
 
@@ -68,7 +74,10 @@ This page will be updated regularly throughout the term. Check it often.
 .. _UAV_Magnetometer_Survey: https://youtu.be/Quku39ZvA7E
 .. _Magnetic_Wrapup.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/Magnetic_Wrapup.pdf
 .. _Magnetic_2: https://www.bilibili.com/video/BV1FA411h7wQ
-
+.. _Electrical_For_Lawn.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/Electrical_For_Lawn.pdf
+.. _Electrical_For_Lawn.ipynb: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/Electrical_For_Lawn.ipynb
+.. _T190424009: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/T190424009.xlsx
+.. _T190424015: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/T190424015.xlsx
 
 
 .. toctree::
