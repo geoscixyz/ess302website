@@ -50,7 +50,8 @@ This page will be updated regularly throughout the term. Check it often.
 +      +----+----+--------------------------------+-------------------------------------------+
 |      | 10 | 9  | - Electrical                   | - Slides: `Electrical_For_Lawn.pdf`_      |
 |      |    |    | - Lecture                      | - Notebook: `Electrical_For_Lawn.ipynb`_  |
-|      |    |    | - `Webcast`_ at 8 am (UTC+8)   | - Data: `T190424009`_   `T190424015`_     |
+|      |    |    | - `Webcast`_ at 8 am (UTC+8)   | - Data: `T190424009`_ , `T190424015`_     |
+|      |    |    |                                | - Video: `Electrical_1`_                  |
 +------+----+----+--------------------------------+-------------------------------------------+
 
 
@@ -78,6 +79,7 @@ This page will be updated regularly throughout the term. Check it often.
 .. _Electrical_For_Lawn.ipynb: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/Electrical_For_Lawn.ipynb
 .. _T190424009: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/T190424009.xlsx
 .. _T190424015: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/T190424015.xlsx
+.. _Electrical_1: https://www.bilibili.com/video/BV1xA411h7he
 
 
 .. toctree::
