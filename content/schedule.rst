@@ -52,6 +52,10 @@ This page will be updated regularly throughout the term. Check it often.
 |      |    |    | - Lecture                      | - Notebook: `Electrical_For_Lawn.ipynb`_  |
 |      |    |    | - `Webcast`_ at 8 am (UTC+8)   | - Data: `T190424009`_ , `T190424015`_     |
 |      |    |    |                                | - Video: `Electrical_1`_                  |
++      +----+----+--------------------------------+-------------------------------------------+
+|      | 17 | 10 | - Electrical                   | - Slides: `Electrical_For_Lawn.pdf`_      |
+|      |    |    | - Hands-on exercise            | - Notebook: `Electrical_For_Lawn.ipynb`_  |
+|      |    |    | - Web meeting at 2 pm (UTC+8)  | - Data: `T190424009`_ , `T190424015`_     |
 +------+----+----+--------------------------------+-------------------------------------------+
 
 
