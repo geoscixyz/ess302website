@@ -55,7 +55,16 @@ This page will be updated regularly throughout the term. Check it often.
 +      +----+----+--------------------------------+-------------------------------------------+
 |      | 17 | 10 | - Electrical                   | - Slides: `Electrical_For_Lawn.pdf`_      |
 |      |    |    | - Hands-on exercise            | - Notebook: `Electrical_For_Lawn.ipynb`_  |
+|      |    |    | - Web meeting at 8 am (UTC+8)  | - Data: `T190424009`_ , `T190424015`_     |
+|      |    |    |                                | - Video: `Electrical_2`_                  |
++      +----+----+--------------------------------+-------------------------------------------+
+|      | 21 | 11 | - Electrical                   | - Slides: `Electrical_For_Lawn.pdf`_      |
+|      |    |    | - Hands-on exercise            | - Notebook: `Electrical_For_Lawn.ipynb`_  |
 |      |    |    | - Web meeting at 2 pm (UTC+8)  | - Data: `T190424009`_ , `T190424015`_     |
++      +----+----+--------------------------------+-------------------------------------------+
+|      | 24 | 11 | - Electrical                   | - Slides: `Electrical_Wrapup.pdf`_        |
+|      |    |    | - Lecture                      | - Video:                                  |
+|      |    |    | - `Webcast`_ at 8 am (UTC+8)   |                                           |
 +------+----+----+--------------------------------+-------------------------------------------+
 
 
@@ -84,6 +93,8 @@ This page will be updated regularly throughout the term. Check it often.
 .. _T190424009: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/T190424009.xlsx
 .. _T190424015: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/T190424015.xlsx
 .. _Electrical_1: https://www.bilibili.com/video/BV1xA411h7he
+.. _Electrical_2: https://www.bilibili.com/video/BV1Wt4y127Mn
+.. _Electrical_Wrapup.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/Electrical_Wrapup.pdf
 
 
 .. toctree::
