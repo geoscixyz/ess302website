@@ -63,8 +63,16 @@ This page will be updated regularly throughout the term. Check it often.
 |      |    |    | - Web meeting at 2 pm (UTC+8)  | - Data: `T190424009`_ , `T190424015`_     |
 +      +----+----+--------------------------------+-------------------------------------------+
 |      | 24 | 11 | - Electrical                   | - Slides: `Electrical_Wrapup.pdf`_        |
-|      |    |    | - Lecture                      | - Video:                                  |
+|      |    |    | - Lecture                      | - Video: `Electrical_3`_                  |
 |      |    |    | - `Webcast`_ at 8 am (UTC+8)   |                                           |
++      +----+----+--------------------------------+-------------------------------------------+
+|      | 26 | 11 | - Electrical                   | - Slides: `Electrical_Extra.pdf`_         |
+|      |    |    | - Lecture                      | - Video:                                  |
+|      |    |    | - `Webcast`_ at 2 pm (UTC+8)   |                                           |
++------+----+----+--------------------------------+-------------------------------------------+
+|May   | 8  | 13 | - EM                           | - Slides:                                 |
+|      |    |    | - Lecture                      | - Notebook:                               |
+|      |    |    | - `Webcast`_ at 8 am (UTC+8)   | - Video:                                  |
 +------+----+----+--------------------------------+-------------------------------------------+
 
 
@@ -95,6 +103,8 @@ This page will be updated regularly throughout the term. Check it often.
 .. _Electrical_1: https://www.bilibili.com/video/BV1xA411h7he
 .. _Electrical_2: https://www.bilibili.com/video/BV1Wt4y127Mn
 .. _Electrical_Wrapup.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/Electrical_Wrapup.pdf
+.. _Electrical_3: https://www.bilibili.com/video/BV1SV411R7XQ
+.. _Electrical_Extra.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/Electrical_Extra.pdf
 
 
 .. toctree::
