@@ -67,12 +67,12 @@ This page will be updated regularly throughout the term. Check it often.
 |      |    |    | - `Webcast`_ at 8 am (UTC+8)   |                                           |
 +      +----+----+--------------------------------+-------------------------------------------+
 |      | 26 | 11 | - Electrical                   | - Slides: `Electrical_Extra.pdf`_         |
-|      |    |    | - Lecture                      | - Video:                                  |
+|      |    |    | - Lecture                      | - Video: `Electrical_4`_                  |
 |      |    |    | - `Webcast`_ at 2 pm (UTC+8)   |                                           |
 +------+----+----+--------------------------------+-------------------------------------------+
-|May   | 8  | 13 | - EM                           | - Slides:                                 |
-|      |    |    | - Lecture                      | - Notebook:                               |
-|      |    |    | - `Webcast`_ at 8 am (UTC+8)   | - Video:                                  |
+|May   | 8  | 13 | - EM                           | - Slides: `EM_For_Treasure.pdf`_          |
+|      |    |    | - Lecture                      | - Notebook: `EM_For_Treasure.ipynb`_      |
+|      |    |    | - `Webcast`_ at 8 am (UTC+8)   | - Data: `37-xg-07ja-039_gem`_             |
 +------+----+----+--------------------------------+-------------------------------------------+
 
 
@@ -105,6 +105,12 @@ This page will be updated regularly throughout the term. Check it often.
 .. _Electrical_Wrapup.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/Electrical_Wrapup.pdf
 .. _Electrical_3: https://www.bilibili.com/video/BV1SV411R7XQ
 .. _Electrical_Extra.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/Electrical_Extra.pdf
+.. _Electrical_4: https://www.bilibili.com/video/BV1YK4y1k7G4
+.. _EM_For_Treasure.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/EM_For_Treasure.pdf
+.. _EM_For_Treasure.ipynb: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/EM_For_Treasure.ipynb
+.. _37-xg-07ja-039_gem: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/37-xg-07ja-039_gem.csv
+
+
 
 
 .. toctree::
