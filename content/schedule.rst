@@ -72,7 +72,13 @@ This page will be updated regularly throughout the term. Check it often.
 +------+----+----+--------------------------------+-------------------------------------------+
 |May   | 8  | 13 | - EM                           | - Slides: `EM_For_Treasure.pdf`_          |
 |      |    |    | - Lecture                      | - Notebook: `EM_For_Treasure.ipynb`_      |
-|      |    |    | - `Webcast`_ at 8 am (UTC+8)   | - Data: `37-xg-07ja-039_gem`_             |
+|      |    |    | - Web meeting at 8 am (UTC+8)  | - Data: `37-xg-07ja-039_gem`_             |
+|      |    |    |                                | - Video: `EM_1`_                          |
++      +----+----+--------------------------------+-------------------------------------------+
+|      | 12 | 14 | - EM                           | - Slides: `EM_For_Treasure.pdf`_          |
+|      |    |    | - Lecture                      | - Notebook: `EM_For_Treasure.ipynb`_      |
+|      |    |    | - Web meeting at 2 pm (UTC+8)  | - Data: `37-xg-07ja-039_gem`_             |
+|      |    |    |                                | - Video:                                  |
 +------+----+----+--------------------------------+-------------------------------------------+
 
 
@@ -109,7 +115,7 @@ This page will be updated regularly throughout the term. Check it often.
 .. _EM_For_Treasure.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/EM_For_Treasure.pdf
 .. _EM_For_Treasure.ipynb: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/EM_For_Treasure.ipynb
 .. _37-xg-07ja-039_gem: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/37-xg-07ja-039_gem.csv
-
+.. _EM_1: https://www.bilibili.com/video/BV1Ze411p7eB
 
 
 
