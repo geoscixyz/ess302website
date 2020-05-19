@@ -78,7 +78,19 @@ This page will be updated regularly throughout the term. Check it often.
 |      | 12 | 14 | - EM                           | - Slides: `EM_For_Treasure.pdf`_          |
 |      |    |    | - Lecture                      | - Notebook: `EM_For_Treasure.ipynb`_      |
 |      |    |    | - Web meeting at 2 pm (UTC+8)  | - Data: `37-xg-07ja-039_gem`_             |
-|      |    |    |                                | - Video:                                  |
+|      |    |    |                                | - Video: N/A                              |
++      +----+----+--------------------------------+-------------------------------------------+
+|      | 19 | 15 | - EM                           | - Slides: `EM_For_Treasure.pdf`_          |
+|      |    |    | - Hands-on exercise            | - Notebook: `EM_For_Treasure.ipynb`_      |
+|      |    |    | - Web meeting at 2 pm (UTC+8)  | - Data: `37-xg-07ja-039_gem`_             |
++      +----+----+--------------------------------+-------------------------------------------+
+|      | 22 | 15 | - EM                           | - Slides:                                 |
+|      |    |    | - Lecture                      | - Video:                                  |
+|      |    |    | - Web meeting at 8 am (UTC+8)  |                                           |
++      +----+----+--------------------------------+-------------------------------------------+
+|      | 29 | 16 | - Well logging                 | - Slides:                                 |
+|      |    |    | - Lecture                      | - Video:                                  |
+|      |    |    | - Web meeting at 8 am (UTC+8)  |                                           |
 +------+----+----+--------------------------------+-------------------------------------------+
 
 
