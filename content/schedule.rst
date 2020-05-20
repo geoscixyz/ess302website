@@ -84,11 +84,11 @@ This page will be updated regularly throughout the term. Check it often.
 |      |    |    | - Hands-on exercise            | - Notebook: `EM_For_Treasure.ipynb`_      |
 |      |    |    | - Web meeting at 2 pm (UTC+8)  | - Data: `37-xg-07ja-039_gem`_             |
 +      +----+----+--------------------------------+-------------------------------------------+
-|      | 22 | 15 | - EM                           | - Slides:                                 |
+|      | 22 | 15 | - EM                           | - Slides: `EM_Wrapup.pdf`_                |
 |      |    |    | - Lecture                      | - Video:                                  |
 |      |    |    | - Web meeting at 8 am (UTC+8)  |                                           |
 +      +----+----+--------------------------------+-------------------------------------------+
-|      | 29 | 16 | - Well logging                 | - Slides:                                 |
+|      | 29 | 16 | - GPR & Well logging           | - Slides:                                 |
 |      |    |    | - Lecture                      | - Video:                                  |
 |      |    |    | - Web meeting at 8 am (UTC+8)  |                                           |
 +------+----+----+--------------------------------+-------------------------------------------+
@@ -128,6 +128,7 @@ This page will be updated regularly throughout the term. Check it often.
 .. _EM_For_Treasure.ipynb: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/EM_For_Treasure.ipynb
 .. _37-xg-07ja-039_gem: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/37-xg-07ja-039_gem.csv
 .. _EM_1: https://www.bilibili.com/video/BV1Ze411p7eB
+.. _EM_Wrapup.pdf: https://github.com/geoscixyz/ess302website/raw/master/assets/2020/EM_Wrapup.pdf
 
 
 
